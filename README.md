@@ -2,7 +2,7 @@
   <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/banner-ai-marketplace-static.png">
   <img src="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/banner-ai-marketplace.gif" alt="Rimora, AI Marketplace untuk bisnis: automation, karyawan AI, skill, dan setup siap pakai" width="100%">
 </picture>
-
+<p></p>
 <p align="center"><a href="mailto:rimora.tech@gmail.com"><img src="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/contact-email.png" height="40" alt="Email: rimora.tech@gmail.com"></a><a href="https://github.com/rimoratech-oss"><img src="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/contact-github.png" height="40" alt="GitHub"></a><picture><img src="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/social-linkedin.png" height="40" alt="LinkedIn"></picture><picture><img src="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/social-instagram.png" height="40" alt="Instagram"></picture><picture><img src="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/social-facebook.png" height="40" alt="Facebook"></picture><a href="#status-pengembangan"><img src="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/status-tahap-awal.png" height="40" alt="Status: tahap awal"></a></p>
 
 **Rimora adalah AI Marketplace tempat bisnis menemukan dan memakai automation siap pakai, karyawan AI, skill, dan setup tanpa harus merakitnya dari nol.** Ada yang gratis untuk dicoba, ada yang berbayar untuk kebutuhan bisnis yang lebih serius.
