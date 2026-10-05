@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rimora.id"><img src="https://img.shields.io/badge/Website-rimora.id-2DD4BF?style=flat-square&labelColor=0B1220" alt="Website"></a>
-  <a href="mailto:rimora.tech@gmail.com"><img src="https://img.shields.io/badge/Email-hello%40rimora.id-60A5FA?style=flat-square&labelColor=0B1220" alt="Email"></a>
+  <a href="mailto:rimora.tech@gmail.com"><img src="https://img.shields.io/badge/Email-rimora.tech%40gmail.com-2DD4BF?style=flat-square&labelColor=0B1220" alt="Email"></a>
   <img src="https://img.shields.io/badge/Status-Tahap%20awal-F59E0B?style=flat-square&labelColor=0B1220" alt="Status: tahap awal">
 </p>
 
@@ -17,26 +16,22 @@ Kami membangun Rimora karena banyak bisnis tahu AI dan automation bisa menghemat
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/automation.svg" width="40" alt=""><br>
-      <b>Automation siap pakai</b><br>
-      <sub>Workflow yang sudah dikonfigurasi, tinggal disesuaikan dengan proses bisnis Anda.</sub>
+      <p><img src="assets/automation.svg" width="48" alt=""></p>
+      <p><b>Automation siap pakai</b><br>Workflow yang sudah dikonfigurasi, tinggal disesuaikan dengan proses bisnis Anda.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/ai-employee.svg" width="40" alt=""><br>
-      <b>Karyawan AI</b><br>
-      <sub>Agen untuk peran tertentu yang menangani pekerjaan berulang, seperti membalas pelanggan atau merapikan data.</sub>
+      <p><img src="assets/ai-employee.svg" width="48" alt=""></p>
+      <p><b>Karyawan AI</b><br>Agen untuk peran tertentu yang menangani pekerjaan berulang, seperti membalas pelanggan atau merapikan data.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/skill.svg" width="40" alt=""><br>
-      <b>Skill</b><br>
-      <sub>Kemampuan tambahan yang bisa dipasang ke agen atau workflow yang sudah berjalan.</sub>
+      <p><img src="assets/skill.svg" width="48" alt=""></p>
+      <p><b>Skill</b><br>Kemampuan tambahan yang bisa dipasang ke agen atau workflow yang sudah berjalan.</p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/setup.svg" width="40" alt=""><br>
-      <b>Setup lengkap</b><br>
-      <sub>Konfigurasi utuh yang bisa disalin, dipelajari, lalu diubah sesuai kebutuhan.</sub>
+      <p><img src="assets/setup.svg" width="48" alt=""></p>
+      <p><b>Setup lengkap</b><br>Konfigurasi utuh yang bisa disalin, dipelajari, lalu diubah sesuai kebutuhan.</p>
     </td>
   </tr>
 </table>
@@ -48,7 +43,7 @@ Kami membangun Rimora karena banyak bisnis tahu AI dan automation bisa menghemat
 
 ## Kreator dan kontributor
 
-Punya automation, agen, atau skill yang layak dibagikan? Kami sedang mencari **kreator pertama** untuk koleksi Rimora. Ceritakan apa yang Anda buat lewat [hello@rimora.id](mailto:rimora.tech@gmail.com).
+Punya automation, agen, atau skill yang layak dibagikan? Kami sedang mencari **kreator pertama** untuk koleksi Rimora. Ceritakan apa yang Anda buat lewat [rimora.tech@gmail.com](mailto:rimora.tech@gmail.com).
 
 ---
 
