@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://rimora.id"><img src="https://img.shields.io/badge/Website-rimora.id-2DD4BF?style=flat-square&labelColor=0B1220" alt="Website"></a>
-  <a href="mailto:hello@rimora.id"><img src="https://img.shields.io/badge/Email-hello%40rimora.id-60A5FA?style=flat-square&labelColor=0B1220" alt="Email"></a>
+  <a href="mailto:rimora.tech@gmail.com"><img src="https://img.shields.io/badge/Email-hello%40rimora.id-60A5FA?style=flat-square&labelColor=0B1220" alt="Email"></a>
   <img src="https://img.shields.io/badge/Status-Tahap%20awal-F59E0B?style=flat-square&labelColor=0B1220" alt="Status: tahap awal">
 </p>
 
@@ -48,7 +48,7 @@ Kami membangun Rimora karena banyak bisnis tahu AI dan automation bisa menghemat
 
 ## Kreator dan kontributor
 
-Punya automation, agen, atau skill yang layak dibagikan? Kami sedang mencari **kreator pertama** untuk koleksi Rimora. Ceritakan apa yang Anda buat lewat [hello@rimora.id](mailto:hello@rimora.id).
+Punya automation, agen, atau skill yang layak dibagikan? Kami sedang mencari **kreator pertama** untuk koleksi Rimora. Ceritakan apa yang Anda buat lewat [hello@rimora.id](mailto:rimora.tech@gmail.com).
 
 ---
 
