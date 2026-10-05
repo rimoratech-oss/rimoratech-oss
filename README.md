@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Rimora: automation, karyawan AI, dan skill siap pakai untuk bisnis" width="100%">
-</p>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/banner-static.png">
+  <img src="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/banner.gif" alt="Rimora: automation, karyawan AI, dan skill siap pakai untuk bisnis" width="100%">
+</picture>
 
 <p align="center">
   <a href="mailto:rimora.tech@gmail.com"><img src="https://img.shields.io/badge/Email-rimora.tech%40gmail.com-2DD4BF?style=flat-square&labelColor=0B1220" alt="Email"></a>
@@ -13,28 +14,10 @@ Kami membangun Rimora karena banyak bisnis tahu AI dan automation bisa menghemat
 
 ## Layanan di Rimora
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><img src="assets/automation.svg" width="48" alt=""></p>
-      <p><b>Automation siap pakai</b><br>Workflow yang sudah dikonfigurasi, tinggal disesuaikan dengan proses bisnis Anda.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><img src="assets/ai-employee.svg" width="48" alt=""></p>
-      <p><b>Karyawan AI</b><br>Agen untuk peran tertentu yang menangani pekerjaan berulang, seperti membalas pelanggan atau merapikan data.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><img src="assets/skill.svg" width="48" alt=""></p>
-      <p><b>Skill</b><br>Kemampuan tambahan yang bisa dipasang ke agen atau workflow yang sudah berjalan.</p>
-    </td>
-    <td width="50%" valign="top">
-      <p><img src="assets/setup.svg" width="48" alt=""></p>
-      <p><b>Setup lengkap</b><br>Konfigurasi utuh yang bisa disalin, dipelajari, lalu diubah sesuai kebutuhan.</p>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/services-dark.png">
+  <img src="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/services-light.png" alt="Layanan Rimora. Automation siap pakai: workflow yang sudah dikonfigurasi, tinggal disesuaikan dengan proses bisnis Anda. Karyawan AI: agen untuk peran tertentu yang menangani pekerjaan berulang, seperti membalas pelanggan atau merapikan data. Skill: kemampuan tambahan yang bisa dipasang ke agen atau workflow yang sudah berjalan. Setup lengkap: konfigurasi utuh yang bisa disalin, dipelajari, lalu diubah sesuai kebutuhan." width="100%">
+</picture>
 
 ## Status pengembangan
 
