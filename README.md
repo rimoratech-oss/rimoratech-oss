@@ -12,8 +12,8 @@ Kami membangun Rimora karena banyak bisnis tahu AI dan automation bisa menghemat
 ## Kategori di Rimora
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/services-dark.png">
-  <img src="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/services-light.png" alt="Kategori di AI Marketplace Rimora. Automation siap pakai: workflow yang sudah dikonfigurasi, tinggal disesuaikan dengan proses bisnis Anda. Karyawan AI: agen untuk peran tertentu yang menangani pekerjaan berulang, seperti membalas pelanggan atau merapikan data. Skill: kemampuan tambahan yang bisa dipasang ke agen atau workflow yang sudah berjalan. Setup lengkap: konfigurasi utuh yang bisa disalin, dipelajari, lalu diubah sesuai kebutuhan." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/kategori-dark.png">
+  <img src="https://raw.githubusercontent.com/rimoratech-oss/rimoratech-oss/main/assets/kategori-light.png" alt="Kategori di AI Marketplace Rimora. AI Marketplace: katalog utama untuk mencari dan memakai produk gratis maupun berbayar dari Rimora dan para kreator. AI Workforce Hub: karyawan AI untuk peran tertentu yang menangani pekerjaan berulang, seperti membalas pelanggan atau merapikan data. Automation Store: workflow siap pakai yang sudah dikonfigurasi, tinggal disesuaikan dengan proses bisnis Anda. AI Toolkit Library: skill dan setup lengkap yang bisa dipasang ke agen atau workflow, lalu diubah sesuai kebutuhan." width="100%">
 </picture>
 
 ## Status pengembangan
